@@ -97,4 +97,4 @@ Projekat rešava sledeće probleme:
 - WebSocket konekcija za real-time crtanje i update.
 
 ### Storage
-- Cloud (S3 ili ekvivalent) za čuvanje crteža.  
+- Cloud (S3 ili slično) za čuvanje crteža.  
