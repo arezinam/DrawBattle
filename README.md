@@ -82,6 +82,9 @@ Projekat rešava sledeće probleme:
 
 ## Arhitektura
 
+Napomena: Pošto je ovo moj prvi veći projekat ovog tipa, predložena arhitektura je okvirna i može doživeti izmene tokom implementacije, u zavisnosti od praktičnih izazova i optimizacija koje se pokažu neophodnim.
+
+
 ### Backend (Rust)
 - **Actix Web / Axum** za REST API i WebSocket server.  
 - **Tokio runtime** za asinhroni rad i low-latency komunikaciju.  
@@ -93,7 +96,7 @@ Projekat rešava sledeće probleme:
 
 ### Frontend
 - **React / Vue / Svelte** za interaktivni web UI.  
-- **Canvas API** za crtanje.  
+- **Canvas API** za crtanje.
 - WebSocket konekcija za real-time crtanje i update.
 
 ### Storage
